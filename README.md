@@ -11,7 +11,7 @@
 
 
 <h3 align="center">
-  <img src="https://img.shields.io/badge/CODENAME-RANJIT%20PANDEY-red?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/CODENAME-THERANJITPANDEY-red?style=for-the-badge&logo=github" />
 </h3>
 
 ---
