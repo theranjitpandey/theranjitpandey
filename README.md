@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ranjit Pandey</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00FFF0&center=true&vCenter=true&width=600&lines=System+Initializing...;Welcome+Back%2C+Ranjit+Pandey.;"alt="Typing Header" />
+</h1>
 <h3 align="center">ᴘʏᴛʜᴏɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ • ꜱᴏꜰᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀ • ᴅᴀᴛᴀ ꜱᴄɪᴇɴᴛɪꜱᴛ</h3>
 
 <br>
@@ -7,10 +9,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Data+Driven+Decisions;Creative+Code+Craftsman;Engineer+of+Tomorrow" alt="Typing SVG" />
 </p>
 
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&pause=1000&color=00FFF0&center=true&vCenter=true&width=600&lines=System+Initializing...;Welcome+Back%2C+Ranjit+Pandey.;System+Developer+Activated.;AI+Module+Loading..." alt="Typing Header" />
-</h1>
 
 <h3 align="center">
   <img src="https://img.shields.io/badge/CODENAME-RANJIT%20PANDEY-red?style=for-the-badge&logo=github" />
