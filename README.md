@@ -60,5 +60,10 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=theranjitpandey&icon=0&color=0" />
+  ---
+
+<p align="center">
+  <img src="https://www.freevisitorcounters.com/en/home/counter/1368830/t/5" alt="Visitor Counter" />
+</p>
+
 </p>
