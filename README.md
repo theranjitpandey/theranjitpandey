@@ -1,5 +1,6 @@
-
-## 🌐 Socials:
+## Hello there, I am Ranjit Pandey 
+## Python Developer || Software Engineer || Data Scientist 
+## 🌐 About me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theranjitpandey) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ranjitpandey) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/theranjitpandey) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/theranjitpandey) 
 
 # 💻 Tech Stack:
