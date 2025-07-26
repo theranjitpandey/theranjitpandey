@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python&theme=dark" height="60"/>
   <img src="https://skillicons.dev/icons?i=github&theme=dark" height="60"/>
-  <img src="https://skillicons.dev/icons?i=datascience&theme=dark" height="60"/>
   <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="60"/>
 </p>
 
