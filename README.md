@@ -3,7 +3,9 @@
 </h1>
 
 <h3 align="center">
-  <code>ᴘʏᴛʜᴏɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ || ꜱᴏꜰᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀ || ᴅᴀᴛᴀ ꜱᴄɪᴇɴᴛɪꜱᴛ</code>
+  <code>ᴘʏᴛʜᴏɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ || ꜱᴏꜰᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀ || ᴅᴀᴛᴀ ꜱᴄɪᴇɴᴛɪꜱᴛ</code><br>
+</h3>
+<h3>
 <p align="center">
 <a href="https://twitter.com/theranjitpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theranjitpandey" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ranjitpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjitpandey" height="30" width="40" /></a>
