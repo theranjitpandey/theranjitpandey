@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  <code>PYTHON DEVELOPER • SOFTWARE ENGINEER • DATA SCIENTIST</code>
+  <code>ᴘʏᴛʜᴏɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ || ꜱᴏꜰᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀ || ᴅᴀᴛᴀ ꜱᴄɪᴇɴᴛɪꜱᴛ</code>
 </h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python&theme=dark" height="60"/>
@@ -18,7 +18,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theranjitpandey&layout=compact&theme=chartreuse-dark&hide_border=true" width="300"/>
 </p>
 
-## ᴘʏᴛʜᴏɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ || ꜱᴏꜰᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀ || ᴅᴀᴛᴀ ꜱᴄɪᴇɴᴛɪꜱᴛ
+## 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theranjitpandey) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ranjitpandey) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/theranjitpandey) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/theranjitpandey) 
 
